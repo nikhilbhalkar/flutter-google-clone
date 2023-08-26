@@ -1,2 +1,2 @@
-const String apiKey = 'AIzaSyAtr47HCUqNLd4jONUXIRryQJz-c-fjuCA';
-const String contextKey = '11560f1f3d97d4117';
+const String apiKey = 'your api key';
+const String contextKey = 'your context key';
